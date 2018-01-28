@@ -8,7 +8,7 @@ NASA Datanauts is an international community of people interested in learning ho
 
 You do not have to be a hardcore coder to be a Datanaut (although those are welcome too)! Borne out of NASA’s Women in Data initiative, the Datanaut program is open to anyone interested in technology, data science, earth and space. Our activities encourage collaboration between members, the merging of ideas and skill-sharing.
 
-NASA Datanauts:
+/b NASA Datanauts:
 
 Receive guidance on accessing and incorporating NASA data into projects;
 
